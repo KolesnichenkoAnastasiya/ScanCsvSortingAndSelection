@@ -38,4 +38,5 @@
 • sortByPopulation - город с максимальной численностью;
 
 • citiesInTheRegion - количество городов в разрезе региона.
+
 Реализовано автоматическое тестирование кода в service.SortServiceTest с помощью JUNIT 4.12
